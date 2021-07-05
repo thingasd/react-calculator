@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thingasd-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/thingasd-app/static/js/main.879c9e68.chunk.js",
-    "main.js.map": "/thingasd-app/static/js/main.879c9e68.chunk.js.map",
+    "main.js": "/thingasd-app/static/js/main.b70572e8.chunk.js",
+    "main.js.map": "/thingasd-app/static/js/main.b70572e8.chunk.js.map",
     "runtime-main.js": "/thingasd-app/static/js/runtime-main.a8ee391e.js",
     "runtime-main.js.map": "/thingasd-app/static/js/runtime-main.a8ee391e.js.map",
     "static/js/2.33741f3d.chunk.js": "/thingasd-app/static/js/2.33741f3d.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a8ee391e.js",
     "static/js/2.33741f3d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.879c9e68.chunk.js"
+    "static/js/main.b70572e8.chunk.js"
   ]
 }
