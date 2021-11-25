@@ -1,6 +1,6 @@
 {
-  "name": "thingasd-app",
-  "homepage": "https://thingasd.github.io/thingasd-app",
+  "name": "react-calculator",
+  "homepage": "https://react-calculator-zeta-flame.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
