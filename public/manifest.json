@@ -1,6 +1,6 @@
 {
-  "short_name": "thingasd-app",
-  "name": "App by thingasd",
+  "short_name": "react-calculator",
+  "name": "react-calculator",
   "icons": [
     {
       "src": "favicon.ico",
